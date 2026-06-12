@@ -1140,6 +1140,11 @@ section,
   overflow: hidden;
 }
 
+.photo .photo-item img {
+  width: 100%;
+  display: block;
+}
+
 .photo .photo-item .photo-info {
   opacity: 0;
   position: absolute;
